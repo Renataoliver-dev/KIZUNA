@@ -11,9 +11,6 @@ A aplicação possui uma interface gráfica feita com **Tkinter**, no estilo de 
 
 O objetivo do projeto é simular as principais funcionalidades de uma rede social, aplicando conceitos de organização de dados, relacionamento entre usuários, validações e persistência em banco de dados.
 
-Embora a proposta original do trabalho tenha sido em linguagem C, o projeto foi desenvolvido em **Python** com autorização do professor.
-
----
 
 ## Funcionalidades
 
