@@ -396,4 +396,22 @@ Na próxima execução, o programa criará um novo banco automaticamente.
 
 ---
 
-Projeto desenvolvido por Renataoliver-dev
+## Autor
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Renataoliver-dev">
+        <img src="https://github.com/Renataoliver-dev.png" width="100px;" alt="Foto de Renata Oliveira"/>
+        <br />
+        <sub><b>Renata Oliveira</b></sub>
+        <br />
+        <sub>@Renataoliver-dev</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
